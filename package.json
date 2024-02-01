@@ -1,0 +1,21 @@
+{
+  "name": "woolly-pro",
+  "displayName": "woolly pro ",
+  "description": "A modern theme that meshes light, dark, and color into a easy to use palette",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "wooly pro",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Wooly Pro-color-theme.json"
+      }
+    ]
+  }
+}
