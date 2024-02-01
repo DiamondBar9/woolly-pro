@@ -3,6 +3,17 @@
   "displayName": "woolly pro ",
   "description": "A modern theme that meshes light, dark, and color into a easy to use palette",
   "version": "0.1.0",
+  "publisher": "DiamondBar9",
+  "repository": {
+    "type": "git",
+    "url": ""
+},
+  "keywords": [
+    "dark",
+    "woolly",
+    "wool",
+    "pro"
+  ],
   "engines": {
     "vscode": "^1.85.0"
   },
@@ -14,7 +25,7 @@
       {
         "label": "wooly pro",
         "uiTheme": "vs-dark",
-        "path": "./themes/Wooly Pro-color-theme.json"
+        "path": "./themes/wooly pro-color-theme.json"
       }
     ]
   }
