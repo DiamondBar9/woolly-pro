@@ -26,6 +26,11 @@
         "label": "wooly pro",
         "uiTheme": "vs-dark",
         "path": "./themes/wooly pro-color-theme.json"
+      },
+      {
+        "label": "wooly pro alt",
+        "uiTheme": "vs-dark",
+        "path": "./themes/wooly pro alt-color-theme.json"
       }
     ]
   }

@@ -6,4 +6,8 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
+
+# Version 1.0
+    - Branching into wooly pro & wooly pro alt
+    - Updating colors for visibility and better PowerShell syntax highlighting
 - Initial release

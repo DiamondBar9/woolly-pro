@@ -1,5 +1,5 @@
 {
-	"name": "wooly pro",
+	"name": "wooly pro alt",
 
 	"colors": {
 		// Defaults for All Unless Overridden 
@@ -14,8 +14,8 @@
 		"textLink.foreground": "#fc4384",
 		"foreground": "#FAF8F6",
 
-		"activityBar.background": "#23191e",
-		"activityBar.foreground": "#FAF8F6",
+		"activityBar.background": "#FAF8F8",
+		"activityBar.foreground": "#23191e",
 		"activityBarBadge.background": "#382f34",
 
 		"editor.background": "#23191e",
@@ -88,12 +88,13 @@
 		"sideBarSectionHeader.foreground": "#FAF8F885",
 		"sideBarSectionHeader.background": "#382f34",
 
-		"statusBar.background": "#382f34",
-		"statusBar.foreground": "#FAF8F8",
-		"statusBar.noFolderBackground": "#382f34",
-		"statusBarItem.remoteBackground": "#382f34",
-		"statusBarItem.remoteForeground": "#FAFA33",
+		"statusBar.background": "#FAF8F6",
+		"statusBar.foreground": "#23191e",
+		"statusBar.noFolderBackground": "#FAF8F6",
+		"statusBarItem.remoteBackground": "#FAF8F6",
+		"statusBarItem.remoteForeground": "#23191e",
 		"statusBar.debuggingBackground": "#FAFA33",
+		"statusBar.border": "#23191e",
 
 		"tab.activeBackground": "#382f34",
 		"tab.inactiveBackground": "#23191e",
@@ -109,10 +110,11 @@
 		"terminal.ansiMagenta": "#b596e8",
 		"terminal.ansiWhite": "#FAF8F6",
 
-		"titleBar.activeBackground": "#382f34",
-		"titleBar.inactiveBackground": "#382f345c",
-		"titleBar.activeForeground": "#FAF8F6",
-		"titleBar.inactiveForeground": "#FAF8F6",
+		"titleBar.activeBackground": "#FAF8F6",
+		"titleBar.inactiveBackground": "#faf8f6e3",
+		"titleBar.activeForeground": "#23191e",
+		"titleBar.inactiveForeground": "#23191e",
+		"titleBar.border": "#23191e",
 
 		"quickInputList.focusBackground": "#23191e",
 	},
