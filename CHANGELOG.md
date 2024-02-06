@@ -6,6 +6,8 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
+# Version 1.2.1
+    - changed a few more textmate scopes 
 # Version 1.2.0 
     - changed text highlight colors 
     - changed textmate scopes for simplicity 

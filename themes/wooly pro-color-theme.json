@@ -138,6 +138,7 @@
 				"constant",
 				"constant.numeric",
 				"constant.character.escape",
+				"constant.language"
 			],
 			"settings": {
 				"foreground": "#0FFF50",
@@ -150,7 +151,7 @@
 				"entity.other",
 			],
 			"settings": {
-				"foreground": "#0FFF50",
+				"foreground": "#FAFA33",
 			}
 		},
 		{
@@ -232,10 +233,20 @@
 				"support.class",
 				"support.other.namespace.use.php",
 				"support.other.namespace.php",
-				"support.type.sys-types"
+				"support.type.sys-types",
 			],
 			"settings": {
 				"foreground": "#FAFA33",
+			}
+		},
+		{
+			"scope": [
+				"support.variable",
+				"support.constant",
+			],
+			"settings": {
+				"foreground": "#FFBF00",
+				"fontStyle": "bold"
 			}
 		},
 		{
