@@ -5,6 +5,12 @@ All notable changes to the "woolly-pro" extension will be documented in this fil
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
 ## [Unreleased]
+
+# Version 1.2.0 
+    - changed text highlight colors 
+    - changed textmate scopes for simplicity 
+    - changed purple, cyan, green, and orange colors for visibility
+    - changed icon, badge, and statusbar color 
 # Version 1.1.0
     - changed line highlight color to white 
     - changed highlighted text for better visibility
