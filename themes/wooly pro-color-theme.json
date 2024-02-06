@@ -19,6 +19,8 @@
 		"activityBarBadge.background": "#FFBF00",
 		"activityBarBadge.foreground": "#23191e",
 
+		"dropdown.listBackground": "#382f34",
+
 		"editor.background": "#23191e",
 		"editor.foreground": "#FAF8F6",
 		"editorInfo.foreground": "#ff0000",
@@ -26,6 +28,8 @@
 		"editor.lineHighlightBackground": "#FAF8F60b",
 		"editor.selectionHighlightBackground": "#faf8f644",
 		"editor.inactiveSelectionBackground": "#faf8f658",
+		"editor.findMatchBackground": "#48d1cdb5",
+		"editor.findMatchHighlightBackground": "#48d1cd56",
 
 		"editorGroupHeader.tabsBackground": "#23191e",
 		"editorGroupHeader.noTabsBackground": "#23191e",
@@ -84,6 +88,7 @@
 		"settings.dropdownForeground": "#23191e",
 		"settings.checkboxBackground": "#FAF8F6",
 		"settings.checkboxForeground": "#23191e",
+		"settings.headerForeground": "#FFBF00",
 
 		"sideBar.background": "#382f34",
 		"sideBar.foreground": "#FAF8F6",
@@ -179,7 +184,6 @@
 			"name": "Meta",
 			"scope": [
 				"meta",
-				"meta.group.simple.subexpression",
 				"meta.function",
 				"meta.object",
 				"meta.objectliteral",
@@ -188,6 +192,14 @@
 				"meta.object-literal",
 				"meta.attribute",
 				"meta.scriptblock"
+			],
+			"settings": {
+				"foreground": "#FFBF00",
+			}
+		},
+		{
+			"scope": [
+				"meta.group.simple.subexpression",
 			],
 			"settings": {
 				"foreground": "#FFBF00",
@@ -213,7 +225,8 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#FFBF00",
+				"foreground": "#b2a0e8",
+				"fontStyle": "bold"
 			}
 		},
 		{

@@ -5,7 +5,10 @@ All notable changes to the "woolly-pro" extension will be documented in this fil
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
 ## [Unreleased]
-
+# Version 1.2.2
+    - changed search highlighting in editor 
+    - changed settings dropdown color for visibility 
+    - changed meta.group.simple.subexpression scope
 # Version 1.2.1
     - changed a few more textmate scopes 
 # Version 1.2.0 
