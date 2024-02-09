@@ -5,6 +5,23 @@ All notable changes to the "woolly-pro" extension will be documented in this fil
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
 ## [Unreleased]
+# Version 1.3.0
+    - changed checkbox coloring for visibility 
+    - changed editor info, error, and warning colors 
+    - changed settings ui colors for visibility 
+    - changed editor gutter action colors
+    - changed errorlens info, error, and warning colors 
+    - changed list warning color
+    - changed git + gitlens tracking colors  
+        red = deleted resource 
+        orange = staged deleted  
+        yellow = ignored / untracked
+        green = added  
+        blue = staged modified 
+        purple = modified / renamed
+    - changed minimap info, error, and warning colors 
+    - changed minimap gutter git colors 
+    - changed editor bracket highlights for better understanding of what section of a bracket is being edited 
 # Version 1.2.2
     - changed search highlighting in editor 
     - changed settings dropdown color for visibility 
