@@ -49,7 +49,7 @@
 
 		"editorGutter.addedBackground": "#0FFF50",
 		"editorGutter.deletedBackground": "#fc4384",
-		"editorGutter.modifiedBackground": "#0FFF50",
+		"editorGutter.modifiedBackground": "#b2a0e8",
 		
 		"editorIndentGuide.background1": "#fc438485",
 		"editorIndentGuide.background2": "#FFBF0085",

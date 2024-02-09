@@ -5,6 +5,8 @@ All notable changes to the "woolly-pro" extension will be documented in this fil
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
 ## [Unreleased]
+# Versio 1.3.1 
+    - changed editor gutter modified color to match git/gitlens
 # Version 1.3.0
     - changed checkbox coloring for visibility 
     - changed editor info, error, and warning colors 
