@@ -163,7 +163,8 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#FAF8F685"
+				"foreground": "#00A36C"
+				//"foreground": "#FAF8F685"
 			}
 		},
 		{
@@ -182,7 +183,12 @@
 			"name": "Entity",
 			"scope": [
 				"entity.name",
+				"entity.name.type",
+				"entity.name.class",
+				"entity.name.namespace",
+				"entity.name.scope-resolution",
 				"entity.other",
+				"entity.other.inherited-class"
 			],
 			"settings": {
 				"foreground": "#FAFA33",
@@ -248,10 +254,21 @@
 			}
 		},
 		{
+			"name": "Source",
+			"scope": [
+				"source.python"
+			],
+			"settings": {
+				"foreground": "#48D1CC",
+				"fontStyle": "bold"
+			}
+		},	
+		{
 			"name": "Storage",
 			"scope": [
 				"storage.type",
-				"storage.modifier"
+				"storage.modifier",
+				
 			],
 			"settings": {
 				"foreground": "#b2a0e8",

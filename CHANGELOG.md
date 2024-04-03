@@ -5,7 +5,11 @@ All notable changes to the "woolly-pro" extension will be documented in this fil
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
 ## [Unreleased]
-# Versio 1.3.1 
+# Version 1.3.2
+    - updated spelling error in display name of woolly pro themes 
+    - updated comment color from grey to a unique shade of green
+    - updated Python variables to be instead of white
+# Version 1.3.1 
     - changed editor gutter modified color to match git/gitlens
 # Version 1.3.0
     - changed checkbox coloring for visibility 
@@ -13,8 +17,8 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
     - changed settings ui colors for visibility 
     - changed editor gutter action colors
     - changed errorlens info, error, and warning colors 
-    - changed list warning color
-    - changed git + gitlens tracking colors  
+    - changed list warning colorg
+    - changed git + gitlens tracking colors
         red = deleted resource 
         orange = staged deleted  
         yellow = ignored / untracked

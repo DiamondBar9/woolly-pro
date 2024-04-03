@@ -1,7 +1,7 @@
 {
   "name": "woolly-pro",
   "displayName": "woolly pro ",
-  "description": "A modern theme that meshes light, dark, and color into a easy to use palette",
+  "description": "A modern palette that's easy to read and easier to use",
   "version": "1.3.1",
   "publisher": "DiamondBar9",
   "repository": {
@@ -12,7 +12,8 @@
     "dark",
     "woolly",
     "wool",
-    "pro"
+    "pro",
+    "theme"
   ],
   "engines": {
     "vscode": "^1.85.0"
@@ -23,14 +24,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "wooly pro",
+        "label": "woolly pro",
         "uiTheme": "vs-dark",
-        "path": "./themes/wooly pro-color-theme.json"
+        "path": "./themes/woolly pro-color-theme.json"
       },
       {
-        "label": "wooly pro alt",
+        "label": "woolly pro alt",
         "uiTheme": "vs-dark",
-        "path": "./themes/wooly pro alt-color-theme.json"
+        "path": "./themes/woolly pro alt-color-theme.json"
       }
     ]
   }
