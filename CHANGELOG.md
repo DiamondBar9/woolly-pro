@@ -5,6 +5,16 @@ All notable changes to the "woolly-pro" extension will be documented in this fil
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
 ## [Unreleased]
+# Version 1.4.0 
+    - removed Woolly Pro Alt  
+    - added woolly pro mono + woolly pro remix
+    - changed comments from 00a36c (green) to light grey 
+    - changed scopes "keyword.operator", "keyword.other" & "keyword.control" from purple to grey
+    - changed single and double quotes from white to red 
+    - changed strings from red to purple 
+    - changed pwsh cmdlets from yellow to orange  
+    - changed meta scopes from orange to yellow 
+    - changed punctuation from purple to red 
 # Version 1.3.2
     - updated spelling error in display name of woolly pro themes 
     - updated comment color from grey to a unique shade of green

@@ -1,5 +1,5 @@
 {
-	"name": "wooly pro",
+	"name": "wooly pro remix",
 
 	"colors": {
 		// Defaults for All Unless Overridden 
@@ -163,8 +163,8 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#00A36C"
-				//"foreground": "#FAF8F685"
+				//"foreground": "#00A36C"
+				"foreground": "#FAF8F655"
 			}
 		},
 		{
@@ -212,7 +212,9 @@
 				"keyword.control"
 			],
 			"settings": {
-				"foreground": "#b2a0e8"
+				//"foreground": "#b2a0e8"
+				"foreground": "#faf8f695",
+				"fontStyle": "bold"
 			}
 		},
 		{
@@ -229,7 +231,8 @@
 				"meta.scriptblock"
 			],
 			"settings": {
-				"foreground": "#FFBF00",
+				//"foreground": "#FFBF00",
+				"foreground": "#FAFA33"
 			}
 		},
 		{
@@ -250,7 +253,7 @@
 				"punctuation.support"
 			],
 			"settings": {
-				"foreground": "#b2a0e8",
+				"foreground": "#fc4384",
 			}
 		},
 		{
@@ -281,7 +284,8 @@
 				"string",
 			],
 			"settings": {
-				"foreground": "#fc4384",
+				//"foreground": "#fc4384",
+				"foreground": "#b2a0e8"
 			},
 		},
 		{	"scope": [
@@ -295,7 +299,8 @@
 				"support.type.sys-types",
 			],
 			"settings": {
-				"foreground": "#FAFA33",
+				//"foreground": "#FAFA33",
+				"foreground": "#FFBF00"
 			}
 		},
 		{
@@ -329,8 +334,8 @@
 				"punctuation.definition.string.end",
 			],
 			"settings": {
-				"foreground": "#FAF8F6",
-				"fontStyle": "bold"
+				"foreground": "#fc4384",
+				//"fontStyle": "bold"
 			}
 		},
 		{
