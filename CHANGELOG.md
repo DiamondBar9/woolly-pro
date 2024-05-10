@@ -5,6 +5,11 @@ All notable changes to the "woolly-pro" extension will be documented in this fil
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
 ## [Unreleased]
+# Version 1.4.1
+    - changed green from #0FFF50 to #0BDA51
+    - changed yellow from #FAFA33 to #FDDE6C
+    - changed orange from #FFBF00 to #FFAA1D
+    - changed red from #FC4384 to #FF6961
 # Version 1.4.0 
     - removed Woolly Pro Alt  
     - added woolly pro mono + woolly pro remix
