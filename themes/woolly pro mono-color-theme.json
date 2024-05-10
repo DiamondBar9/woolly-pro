@@ -163,7 +163,6 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				//"foreground": "#00A36C"
 				"foreground": "#FAF8F655"
 			}
 		},
@@ -212,8 +211,8 @@
 				"keyword.control"
 			],
 			"settings": {
-				//"foreground": "#b2a0e8"
-				"foreground": "#faf8f695",
+				"foreground": "#FF6961",
+				//"foreground": "#faf8f695",
 				"fontStyle": "bold"
 			}
 		},

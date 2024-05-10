@@ -5,7 +5,9 @@ All notable changes to the "woolly-pro" extension will be documented in this fil
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
 ## [Unreleased]
-# Version 1.4.1
+# Version 1.5.1 
+    - changed keyword scopes from #faf8f695 to #FF6961 
+# Version 1.5.0
     - changed green from #0FFF50 to #0BDA51
     - changed yellow from #FAFA33 to #FDDE6C
     - changed orange from #FFBF00 to #FFAA1D
