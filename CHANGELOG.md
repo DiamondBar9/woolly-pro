@@ -5,6 +5,12 @@ All notable changes to the "woolly-pro" extension will be documented in this fil
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
 ## [Unreleased]
+# Version 1.5.4
+    - add activitybar.border and set to match sidebar background
+    - add editorgroupheader.border to match activitybar.border
+    - add panel.border and match activitybar.border
+    - add sidebartitle.background to match editor
+    - change sidebarsectionheader.foreground from grey to white 
 # Version 1.5.3
     - added new, lighter colored woolly pro theme for visibility in the daytime 
 # Version 1.5.2

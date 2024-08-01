@@ -16,6 +16,7 @@
 
 		"activityBar.background": "#353535",
 		"activityBar.foreground": "#FAF8F6",
+		"activityBar.border": "#454545",
 		"activityBarBadge.background": "#FFAA1D",
 		"activityBarBadge.foreground": "#353535",
 
@@ -46,6 +47,7 @@
 
 		"editorGroupHeader.tabsBackground": "#353535",
 		"editorGroupHeader.noTabsBackground": "#353535",
+		"editorGroupHeader.border": "#454545",
 
 		"editorGutter.addedBackground": "#50C878",
 		"editorGutter.deletedBackground": "#FF6961",
@@ -113,6 +115,8 @@
 		"minimapGutter.deletedBackground": "#FF6961",
 		"minimapGutter.modifiedBackground": "#b2a0e8",
 		
+		"panel.border": "#454545",
+		
 		"settings.dropdownBackground": "#353535",
 		"settings.dropdownForeground": "#FAF8F6",
 		"settings.dropdownBorder": "#FAF8F6",
@@ -121,8 +125,9 @@
 
 		"sideBar.background": "#454545",
 		"sideBar.foreground": "#FAF8F6",
+		"sideBarTitle.background": "#353535",
 		"sideBarTitle.foreground": "#FAF8F685",
-		"sideBarSectionHeader.foreground": "#FAF8F685",
+		"sideBarSectionHeader.foreground": "#FAF8F6",
 		"sideBarSectionHeader.background": "#454545",
 
 		"statusBar.background": "#454545",
