@@ -5,6 +5,10 @@ All notable changes to the "woolly-pro" extension will be documented in this fil
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
 ## [Unreleased]
+# Version 1.5.5
+    - remove tab.activeBorderTop
+    - add tab.activeBorder and set to orange 
+    - add tab.border and set to match tab.inactiveBackground
 # Version 1.5.4
     - add activitybar.border and set to match sidebar background
     - add editorgroupheader.border to match activitybar.border

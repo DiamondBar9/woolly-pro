@@ -141,7 +141,8 @@
 		"tab.activeBackground": "#1c1c1c",
 		"tab.inactiveBackground": "#2b2b2b",
 		"tab.activeModifiedBorder": "#1c1c1c",
-		"tab.activeBorderTop": "#FFAA1D",
+		"tab.activeBorder": "#FFAA1D",
+		"tab.border": "#2b2b2b",
 
 		"terminal.ansiBlack": "#000000",
 		"terminal.ansiRed": "#FF6961",
