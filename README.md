@@ -1,16 +1,18 @@
-# woolly-pro README
+# woolly pro theme
 
-## Working with Markdown
+## A 3 theme package with colors inspired by summer nights 
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+Woolly Pro is the next evolution of themes by DiamondBar9. The Monokai color palette (found in Monokai Ryo and Classic Monokai Ryo) is one of the most iconic palettes ever created, but it's been done a million ways. I wanted to branch out and create something a bit more unique. I built woolly pro with an inital focus on PowerShell and Python but it supports all languages. I will continue to slowly roll out syntax highlighting updates as I understand how the colors interact on screen in additional languages. 
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+Highlights:
+* Easy to view color palette 
+* Three themes: woolly pro, woolly pro mono, and woolly pro remix
+* All three themes share core DNA, but they've been tailored to bring certain contrats levels for different lighting conditions
 
-## For more information
+## Other Projects by DiamondBar9
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+* [Monokai Ryo](https://marketplace.visualstudio.com/items?itemName=DiamondBar9.monokai-ryo)
+* [Classic Monokai Ryo](https://marketplace.visualstudio.com/items?itemName=DiamondBar9.classic-monokai-ryo)
+* [All Projects by DiamondBar9](https://marketplace.visualstudio.com/publishers/DiamondBar9)
 
 **Enjoy!**

@@ -9,23 +9,23 @@
 		"button.foreground": "#353535",
 		"errorForeground": "#EE4B2B",
 		"icon.foreground": "#FFAA1D",
-		"focusBorder": "#353535",
+		"focusBorder": "#FFAA1D",
 		"selection.background": "#faf8f658",
 		"textLink.foreground": "#FF6961",
 		"foreground": "#FAF8F6",
 
 		"activityBar.background": "#353535",
 		"activityBar.foreground": "#FAF8F6",
-		"activityBar.border": "#454545",
+		"activityBar.border": "#FAF8F610",
 		"activityBarBadge.background": "#FFAA1D",
 		"activityBarBadge.foreground": "#353535",
 
-		"checkbox.background": "#454545",
-		"checkbox.border": "#FAF8F6",
+		"checkbox.background": "#353535",
+		"checkbox.border": "#FFAA1D",
 
 		"dropdown.listBackground": "#454545",
 
-		"editor.background": "#353535",
+		"editor.background": "#303030",
 		"editor.foreground": "#FAF8F6",
 		"editorInfo.foreground": "#F0E68C",
 		"editorError.foreground": "#EE4B2B",
@@ -47,7 +47,7 @@
 
 		"editorGroupHeader.tabsBackground": "#353535",
 		"editorGroupHeader.noTabsBackground": "#353535",
-		"editorGroupHeader.border": "#454545",
+		"editorGroupHeader.border": "#FAF8F610",
 
 		"editorGutter.addedBackground": "#50C878",
 		"editorGutter.deletedBackground": "#FF6961",
@@ -74,9 +74,9 @@
 		"errorLens.errorForeground": "#EE4B2B",
 		"errorLens.warningForeground": "#FF7518",
 
-		"input.background": "#353535",
+		"input.background": "#303030",
 		"input.foreground": "#FAF8F6",
-		"input.border": "#353535",
+		"input.border": "#FFAA1D",
 		"input.placeholderForeground": "#FAF8F685",
 	
 		"gitDecoration.addedResourceForeground": "#50C878",
@@ -98,11 +98,11 @@
 		"gitlens.decorations.untrackedForegroundColor": "#FDDE6C",
 		"gitlens.decorations.copiedForegroundColor": "#FDDE6C",
 
-		"list.activeSelectionBackground": "#4e464a85",
+		"list.activeSelectionBackground": "#FAF8F630",
 		"list.errorForeground": "#EE4B2B",
-		"list.inactiveSelectionBackground": "#4e464a85",
+		"list.inactiveSelectionBackground": "#FAF8F630",
 		"list.invalidItemForeground": "#EE4B2B",
-		"list.hoverBackground": "#4e464a85",
+		"list.hoverBackground": "#FAF8F610",
 		"list.focusOutline": "#FAF8F6",
 		"list.warningForeground": "#FF7518",
 
@@ -115,7 +115,7 @@
 		"minimapGutter.deletedBackground": "#FF6961",
 		"minimapGutter.modifiedBackground": "#b2a0e8",
 		
-		"panel.border": "#454545",
+		"panel.border": "#FAF8F610",
 		
 		"settings.dropdownBackground": "#353535",
 		"settings.dropdownForeground": "#FAF8F6",
@@ -123,26 +123,29 @@
 		"settings.dropdownListBorder": "#FAF8F6",
 		"settings.headerForeground": "#FFAA1D",
 
-		"sideBar.background": "#454545",
+		"sideBar.background": "#353535",
 		"sideBar.foreground": "#FAF8F6",
 		"sideBarTitle.background": "#353535",
 		"sideBarTitle.foreground": "#FAF8F685",
 		"sideBarSectionHeader.foreground": "#FAF8F6",
-		"sideBarSectionHeader.background": "#454545",
+		"sideBarSectionHeader.background": "#353535",
+		"sideBarSectionHeader.border": "#FAF8F610",
+		"sideBar.border": "#FAF8F610",
 
-		"statusBar.background": "#454545",
+		"statusBar.background": "#353535",
 		"statusBar.foreground": "#FAF8F6",
-		"statusBar.noFolderBackground": "#454545",
-		"statusBarItem.remoteBackground": "#454545",
+		"statusBar.noFolderBackground": "#353535",
+		"statusBarItem.remoteBackground": "#48D1CC",
 		"statusBarItem.remoteForeground": "#FAF8F6",
 		"statusBar.debuggingBackground": "#FFAA1D",
 		"statusBar.debuggingForeground": "#353535",
+		"statusBar.border": "#FAF8F610",
 
 		"tab.activeBackground": "#353535",
 		"tab.inactiveBackground": "#454545",
 		"tab.activeModifiedBorder": "#353535",
 		"tab.activeBorder": "#FFAA1D",
-		"tab.border": "#454545",
+		"tab.border": "#FAF8F610",
 
 		"terminal.ansiBlack": "#000000",
 		"terminal.ansiRed": "#FF6961",
@@ -153,8 +156,8 @@
 		"terminal.ansiMagenta": "#b2a0e8",
 		"terminal.ansiWhite": "#FAF8F6",
 
-		"titleBar.activeBackground": "#454545",
-		"titleBar.inactiveBackground": "#4545455c",
+		"titleBar.activeBackground": "#353535",
+		"titleBar.inactiveBackground": "#3535355c",
 		"titleBar.activeForeground": "#FAF8F6",
 		"titleBar.inactiveForeground": "#FAF8F6",
 

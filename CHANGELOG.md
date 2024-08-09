@@ -4,17 +4,59 @@ All notable changes to the "woolly-pro" extension will be documented in this fil
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [Unreleased]
+## [Releases]
+# Version 1.6.0 
+    - changed README file
+    - changed editor color to #303030 for Woolly Pro 
+    - changed alternative main color #353535 for Woolly Pro
+    - changed alternative main color to #222222 for Woolly Pro Mono
+    - changed alternative main color to #32242B for Woolly Pro Remix
+    - changed list.activeSelectionBackground to #FAF8F630
+    - changed list.inactiveSelectionBackground to #FAF8F630
+    - changed list.hoverBackground to #FAF8F610    
+    - changed statusBarItem.remoteBackground to #48D1CC
+    - changed activityBar.border to #FAF8F610
+    - changed editorGroupHeader.border to #FAF8F610
+    - changed panel.border to #FAF8F610
+    - changed tab.border to #FAF8F610
+    - added sidebar.border and set to #FAF8F610
+    - added sideBarSectionHeader.border and set to #FAF8F610
+    - added statuBar.border and set to #FAF8F610
+    - changed input.background to editor.background
+    - changed input.border to #FFAA1D
+    - changed focus.border to #FFAA1D
+    - changed checkbox.border to #FFAA1D
+    - changed #454545 to #353535 in Woolly Pro:
+        - checkbox.background
+        - sideBarSectionHeader.background
+        - statusBar.background
+        - statusBar.noFolderBackground
+        - titleBar.activeBackground
+        - titleBar.inactiveBackground +5c
+    - changed #2b2b2b to #222222 in Woolly Pro Mono
+        - checkbox.background
+        - sideBarSectionHeader.background
+        - statusBar.background
+        - statusBar.noFolderBackground
+        - titleBar.activeBackground
+        - titleBar.inactiveBackground +5c
+    - changed #382f34 to #32242b in Woolly Pro Remix 
+        - checkbox.background
+        - sideBarSectionHeader.background
+        - statusBar.background
+        - statusBar.noFolderBackground
+        - titleBar.activeBackground
+        - titleBar.inactiveBackground +5c
 # Version 1.5.5
-    - remove tab.activeBorderTop
-    - add tab.activeBorder and set to orange 
-    - add tab.border and set to match tab.inactiveBackground
+    - removed tab.activeBorderTop
+    - added tab.activeBorder and set to orange 
+    - added tab.border and set to match tab.inactiveBackground
 # Version 1.5.4
-    - add activitybar.border and set to match sidebar background
-    - add editorgroupheader.border to match activitybar.border
-    - add panel.border and match activitybar.border
-    - add sidebartitle.background to match editor
-    - change sidebarsectionheader.foreground from grey to white 
+    - added activitybar.border and set to match sidebar background
+    - added editorgroupheader.border to match activitybar.border
+    - added panel.border and match activitybar.border
+    - added sidebartitle.background to match editor
+    - changed sidebarsectionheader.foreground from grey to white 
 # Version 1.5.3
     - added new, lighter colored woolly pro theme for visibility in the daytime 
 # Version 1.5.2
