@@ -5,6 +5,9 @@ All notable changes to the "woolly-pro" extension will be documented in this fil
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
 ## [Releases]
+# Version 1.6.1 
+    - changed statusBarItem.remoteBackground to match statusBar.background
+    - changed statusBarItem.remoteForeground from white to #FFAA1D
 # Version 1.6.0 
     - changed README file
     - changed editor color to #303030 for Woolly Pro 
