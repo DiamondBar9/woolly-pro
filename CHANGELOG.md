@@ -5,6 +5,17 @@ All notable changes to the "woolly-pro" extension will be documented in this fil
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
 ## [Releases]
+# Version 1.6.2 
+    - changed woolly pro mono theme editor.background from #1c1c1c to #151515
+    - changed woolly pro theme editor.background from #303030 to #252525
+    - changed button.background from #FFAA1D to #FF6961
+    - changed icon.foreground from #FFAA1D to #FDDE6C
+    - changed statusBar,background to #FAF8F6
+    - changed statusBar.foreground to match sideBar.background 
+    - changed statusBar.noFolderBackground to #FAF8F6 
+    - changed statusBar.remoteBackground to #FAF8F6
+    - changed statusBar.remoteForeground to match sideBar.background 
+    - changed statusBar.debuggingBackground to #b2a0e8
 # Version 1.6.1 
     - changed statusBarItem.remoteBackground to match statusBar.background
     - changed statusBarItem.remoteForeground from white to #FFAA1D

@@ -5,10 +5,10 @@
 		// Defaults for All Unless Overridden 
 		"badge.background": "#FAF8F6",
 		"badge.foreground": "#222222",
-		"button.background": "#FFAA1D",
+		"button.background": "#FF6961",
 		"button.foreground": "#222222",
 		"errorForeground": "#EE4B2B",
-		"icon.foreground": "#FFAA1D",
+		"icon.foreground": "#FDDE6C",
 		"focusBorder": "#FFAA1D",
 		"selection.background": "#faf8f658",
 		"textLink.foreground": "#FF6961",
@@ -25,7 +25,7 @@
 
 		"dropdown.listBackground": "#2b2b2b",
 
-		"editor.background": "#1c1c1c",
+		"editor.background": "#151515",
 		"editor.foreground": "#FAF8F6",
 		"editorInfo.foreground": "#F0E68C",
 		"editorError.foreground": "#EE4B2B",
@@ -132,12 +132,12 @@
 		"sideBarSectionHeader.border": "#FAF8F610",
 		"sideBar.border": "#FAF8F610",
 
-		"statusBar.background": "#222222",
-		"statusBar.foreground": "#FAF8F6",
-		"statusBar.noFolderBackground": "#222222",
-		"statusBarItem.remoteBackground": "#222222",
-		"statusBarItem.remoteForeground": "#FFAA1D",
-		"statusBar.debuggingBackground": "#FFAA1D",
+		"statusBar.background": "#FAF8F6",
+		"statusBar.foreground": "#222222",
+		"statusBar.noFolderBackground": "#FAF8F6",
+		"statusBarItem.remoteBackground": "#FAF8F6",
+		"statusBarItem.remoteForeground": "#222222",
+		"statusBar.debuggingBackground": "#b2a0e8",
 		"statusBar.debuggingForeground": "#222222",
 		"statusBar.border": "#FAF8F610",
 
