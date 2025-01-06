@@ -5,6 +5,9 @@ All notable changes to the "woolly-pro" extension will be documented in this fil
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
 ## [Releases]
+# Version 1.6.3 
+    - added minimap.background and matched activity bar 
+    - added panel.background and matched activity bar
 # Version 1.6.2 
     - changed woolly pro mono theme editor.background from #1c1c1c to #151515
     - changed woolly pro theme editor.background from #303030 to #252525

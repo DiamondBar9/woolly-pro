@@ -106,6 +106,7 @@
 		"list.focusOutline": "#FAF8F6",
 		"list.warningForeground": "#FF7518",
 
+		"minimap.background": "#353535",
 		"minimap.errorHighlight": "#EE4B2B85",
 		"minimap.infoHighlight": "#F0E68C85",
 		"minimap.warningHighlight": "#FF751885",
@@ -115,6 +116,7 @@
 		"minimapGutter.deletedBackground": "#FF6961",
 		"minimapGutter.modifiedBackground": "#b2a0e8",
 		
+		"panel.background": "#353535",
 		"panel.border": "#FAF8F610",
 		
 		"settings.dropdownBackground": "#353535",
