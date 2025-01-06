@@ -74,7 +74,7 @@
 		"errorLens.errorForeground": "#EE4B2B",
 		"errorLens.warningForeground": "#FF7518",
 
-		"input.background": "#303030",
+		"input.background": "#2a2a2a",
 		"input.foreground": "#FAF8F6",
 		"input.border": "#FFAA1D",
 		"input.placeholderForeground": "#FAF8F685",
@@ -116,7 +116,7 @@
 		"minimapGutter.deletedBackground": "#FF6961",
 		"minimapGutter.modifiedBackground": "#b2a0e8",
 		
-		"panel.background": "#353535",
+		"panel.background": "#202020",
 		"panel.border": "#FAF8F610",
 		
 		"settings.dropdownBackground": "#353535",
@@ -134,11 +134,11 @@
 		"sideBarSectionHeader.border": "#FAF8F610",
 		"sideBar.border": "#FAF8F610",
 
-		"statusBar.background": "#FAF8F6",
-		"statusBar.foreground": "#353535",
-		"statusBar.noFolderBackground": "#FAF8F6",
-		"statusBarItem.remoteBackground": "#FAF8F6",
-		"statusBarItem.remoteForeground": "#353535",
+		"statusBar.background": "#252525",
+		"statusBar.foreground": "#FAF8F6",
+		"statusBar.noFolderBackground": "#252525",
+		"statusBarItem.remoteBackground": "#252525",
+		"statusBarItem.remoteForeground": "#FAF8F6",
 		"statusBar.debuggingBackground": "#b2a0e8",
 		"statusBar.debuggingForeground": "#353535",
 		"statusBar.border": "#FAF8F610",

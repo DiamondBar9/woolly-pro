@@ -116,7 +116,7 @@
 		"minimapGutter.deletedBackground": "#FF6961",
 		"minimapGutter.modifiedBackground": "#b2a0e8",
 
-		"panel.background": "#32242b",
+		"panel.background": "#1e161a",
 		"panel.border": "#FAF8F610",
 
 		"settings.dropdownBackground": "#32242b",
@@ -134,11 +134,11 @@
 		"sideBarSectionHeader.border": "#FAF8F610",
 		"sideBar.border": "#FAF8F610",
 
-		"statusBar.background": "#FAF8F6",
-		"statusBar.foreground": "#32242b",
-		"statusBar.noFolderBackground": "#FAF8F6",
-		"statusBarItem.remoteBackground": "#FAF8F6",
-		"statusBarItem.remoteForeground": "#32242b",
+		"statusBar.background": "#23191e",
+		"statusBar.foreground": "#FAF8F6",
+		"statusBar.noFolderBackground": "#23191e",
+		"statusBarItem.remoteBackground": "#23191e",
+		"statusBarItem.remoteForeground": "#FAF8F6",
 		"statusBar.debuggingBackground": "#b2a0e8",
 		"statusBar.debuggingForeground": "#32242b",
 		"statusBar.border": "#FAF8F610",

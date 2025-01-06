@@ -5,6 +5,13 @@ All notable changes to the "woolly-pro" extension will be documented in this fil
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
 ## [Releases]
+# Version 1.6.4 
+    - changed panel.background to one shade darker 
+    - changed statusBar.background from #FAF8F6 to match editor.background
+    - changed statusBar.noFolderBackground from #FAF8F6 to match editor.background
+    - changed statusBarItem.remoteBackground from #FAF8F6 to match editor.background
+    - changed all #303030 to #2a2a2a in Woolly Pro 
+    - changed all #222222 to #202020 in Woolly Pro Mono 
 # Version 1.6.3 
     - added minimap.background and matched activity bar 
     - added panel.background and matched activity bar
