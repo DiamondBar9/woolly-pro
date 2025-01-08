@@ -5,6 +5,17 @@ All notable changes to the "woolly-pro" extension will be documented in this fil
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
 ## [Releases]
+# Version 1.7.0
+    - changed yellow from #FDDE6C to #FFAA1D
+    - changed orange from #FFAA1D to #FF7518 
+    - changed purple from #b2a0e8 to #E0B0FF
+    - changed entity token from #FFAA1D to italic #50C878 
+    - changed keyword token from #FF6961 to bold #808080
+    - changed meta token from #FFAA1D to #48D1CC
+    - changed storage token from #E0B0FF to #FF7518
+    - changed string token from #E0B0FF to #FFAA1D
+    - changed support token from #FF7518 to #E0B0FF
+    - changed variables token from #48D1CC to #50C878
 # Version 1.6.4 
     - changed panel.background to one shade darker 
     - changed statusBar.background from #FAF8F6 to match editor.background
