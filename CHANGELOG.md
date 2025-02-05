@@ -5,6 +5,17 @@ All notable changes to the "woolly-pro" extension will be documented in this fil
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
 ## [Releases]
+# Version 1.7.1
+    - changed white from #FAF8F6 to #E1DFDD
+    - changed terminal.black from #000000 to #4D4D4D
+    - added terminal.ansiBrightBlack #B3B3B3",
+	- added terminal.ansiBrightBlue #FF9E5D",
+	- added terminal.ansiBrightCyan #7FDFD8",
+	- added terminal.ansiBrightGreen #85D9A1",
+	- added terminal.ansiBrightMagenta #E9C8FF",
+	- added terminal.ansiBrightRed #FF9690",
+	- added terminal.ansiBrightWhite #FFFFFF",
+	- added terminal.ansiBrightYellow #FFC461",
 # Version 1.7.0
     - changed yellow from #FDDE6C to #FFAA1D
     - changed orange from #FFAA1D to #FF7518 
