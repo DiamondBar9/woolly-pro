@@ -5,6 +5,11 @@ All notable changes to the "woolly-pro" extension will be documented in this fil
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
 ## [Releases]
+# Version 1.7.3 
+    - changed the following for woolly pro coco:
+        - dropdown.listBackground from #382f34 to #373232
+        - editorWidget.background from #382f34 to #373232
+        - tab.inactiveBackground from #382f34 to #373232
 # Version 1.7.2 
     - added woolly pro coco
 # Version 1.7.1

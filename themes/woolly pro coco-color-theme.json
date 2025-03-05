@@ -23,7 +23,7 @@
 		"checkbox.background": "#2c2525",
 		"checkbox.border": "#FF7518",
 
-		"dropdown.listBackground": "#382f34",
+		"dropdown.listBackground": "#373232",
 		
 		"editor.background": "#211c1c",
 		"editor.foreground": "#E1DFDD",
@@ -67,7 +67,7 @@
 		"editorIndentGuide.activeBackground5": "#48D1CC",
 		"editorIndentGuide.activeBackground6": "#E0B0FF",
 
-		"editorWidget.background": "#382f34",
+		"editorWidget.background": "#373232",
 		"editorWidget.foreground": "#E1DFDD",
 
 		"errorLens.infoForeground": "#F0E68C",
@@ -144,7 +144,7 @@
 		"statusBar.border": "#E1DFDD10",
 
 		"tab.activeBackground": "#2c2525",
-		"tab.inactiveBackground": "#382f34",
+		"tab.inactiveBackground": "#373232",
 		"tab.activeModifiedBorder": "#2c2525",
 		"tab.activeBorder": "#FF7518",
 		"tab.border": "#E1DFDD10",
