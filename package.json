@@ -29,6 +29,11 @@
         "path": "./themes/woolly pro-color-theme.json"
       },
       {
+        "label": "woolly pro coco",
+        "uiTheme": "vs-dark",
+        "path": "./themes/woolly pro coco-color-theme.json"
+      },
+      {
         "label": "woolly pro mono",
         "uiTheme": "vs-dark",
         "path": "./themes/woolly pro mono-color-theme.json"
