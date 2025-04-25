@@ -5,19 +5,19 @@
 		// Defaults for All Unless Overridden 
 		"badge.background": "#E1DFDD",
 		"badge.foreground": "#2c2525",
-		"button.background": "#FF6961",
+		"button.background": "#E1DFDD",
 		"button.foreground": "#2c2525",
 		"errorForeground": "#EE4B2B",
-		"icon.foreground": "#FFAA1D",
-		"focusBorder": "#FF7518",
+		"icon.foreground": "#E1DFDD",
+		"focusBorder": "#FFAA1D85",
 		"selection.background": "#E1DFDD58",
-		"textLink.foreground": "#FF6961",
+		"textLink.foreground": "#48d1cd",
 		"foreground": "#E1DFDD",
 
 		"activityBar.background": "#2c2525",
 		"activityBar.foreground": "#E1DFDD",
 		"activityBar.border": "#E1DFDD10",
-		"activityBarBadge.background": "#FF7518",
+		"activityBarBadge.background": "#FFAA1D",
 		"activityBarBadge.foreground": "#2c2525",
 
 		"checkbox.background": "#2c2525",
@@ -76,7 +76,7 @@
 
 		"input.background": "#211c1c",
 		"input.foreground": "#E1DFDD",
-		"input.border": "#FF7518",
+		//"input.border": "#FF7518",
 		"input.placeholderForeground": "#E1DFDD85",
 	
 		"gitDecoration.addedResourceForeground": "#50C878",

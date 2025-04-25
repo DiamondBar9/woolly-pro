@@ -5,6 +5,13 @@ All notable changes to the "woolly-pro" extension will be documented in this fil
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
 ## [Releases]
+# Version 1.7.4
+    - changed button.background from #FF6961 to  #E1DFDD
+    - changed icon.foreground from #FFAA1D to #E1DFDD
+    - changed focusBorder from #FF7518 to #FFAA1D85
+    - changed textLink.foreground from #FF6961 to #48d1cd
+    - changed activityBarBadge.background from #FF7518 to #FFAA1D
+    - remove input.border
 # Version 1.7.3 
     - changed the following for woolly pro coco:
         - dropdown.listBackground from #382f34 to #373232
