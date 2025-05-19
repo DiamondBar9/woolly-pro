@@ -5,6 +5,8 @@ All notable changes to the "woolly-pro" extension will be documented in this fil
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
 ## [Releases]
+# Version 1.7.5 
+    - changed main colors for woolly pro remix color theme
 # Version 1.7.4
     - changed button.background from #FF6961 to  #E1DFDD
     - changed icon.foreground from #FFAA1D to #E1DFDD
