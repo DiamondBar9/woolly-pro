@@ -5,6 +5,18 @@ All notable changes to the "woolly-pro" extension will be documented in this fil
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
 ## [Releases]
+# Version 1.7.6 
+    - changed green from #50C878 to # #00ff9c
+    - changed cyan from #48D1CC to #00c3ff
+    - changed red from #FF6961 to #ff5b5b
+    - changed yellow from #FFAA1D to #FFCC00
+    - changed seleciton.background from #E1DFDD58 to #E1DFDD40
+    - changed activityBarBadge.backgroun to #c0c0c0
+    - changed editor.selectionBackground from #E1DFDD58 to #E1DFDD40
+    - changed editor.selectionHighlightBackground": "#E1DFDD44 to #c566fc44  
+    - changed editor.inactiveSelectionBackground from #E1DFDD58 to #E1DFDD20
+    - changed editor.findMatchBackground: "#48d1cdb5", to #00ff9c90
+    - changed editor.findMatchHighlightBackground: "#48d1cd56", to #00ff9c20
 # Version 1.7.5 
     - changed main colors for woolly pro remix color theme
 # Version 1.7.4
