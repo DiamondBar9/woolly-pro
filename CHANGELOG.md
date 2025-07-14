@@ -5,6 +5,27 @@ All notable changes to the "woolly-pro" extension will be documented in this fil
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
 ## [Releases]
+# Version 1.7.7 
+    - changed editor.selectionBackground from #E1DFDD40 "#E1DFDD20", 
+    - changed editor.lineHighlightBackground from #E1DFDD0b to #c0c0c015
+    - changed editor.selectionHighlightBackground from #c566fc44 to #ffcc0060
+    - changed editor.findMatchBackground from #00ff9c90 to #ff5b5b 
+    - removed editor.inactiveSelectionBackground
+    - changed editor.findMatchHighlightBackground from #00ff9c20 to #ff5b5b60
+    - changed editorBracketHighlight.foreground1 from #E0B0FF to #ff5b5b
+	- changed editorBracketHighlight.foreground2 from #00c3ff to #FF7518
+	- changed editorBracketHighlight.foreground3 from #00ff9c to #ffcc00
+	- changed editorBracketHighlight.foreground4 from #ffcc00 to #00ff9c
+	- changed editorBracketHighlight.foreground5 from #FF7518 to #00c3ff
+	- changed editorBracketHighlight.foreground6 from #ff5b5b to #E0B0FF
+    - changed editorGutter.modifiedBackground from #E0B0FF to #00c3ff
+    - changed gitDecoration.modifiedResourceForeground from #E0B0FF to #00c3ff
+    - changed gitDecoration.ignoredResourceForeground from #ffcc00 to #636363
+    - changed gitDecoration.stageDeletedResourceForeground from #FF7518 to #FF0000 
+    - changed gitDecoration.stageModifiedResourceForeground from #00c3ff to #00FF00
+    - changed gitDecoration.submoduleResourceForeground from #6495ED to #FF7518
+    - changed list.activeSelectionForeground from #FD90FD to #00ff9c
+	- changed minimapGutter.modifiedBackground from #E0B0FF to #00c3ff
 # Version 1.7.6 
     - changed green from #50C878 to # #00ff9c
     - changed cyan from #48D1CC to #00c3ff
