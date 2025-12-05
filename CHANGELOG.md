@@ -5,6 +5,11 @@ All notable changes to the "woolly-pro" extension will be documented in this fil
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
 ## [Releases]
+# Version 1.7.8
+    - changed activityBarBadge.background from #c0c0c0 to #98676A
+    - changed editor.background from matching statusBar.background to match sideBar.background
+    - changed panel.background to match sideBar.background
+    - changed statuaBar.debuggingBackground from #E0B0FF to #DC3958
 # Version 1.7.7 
     - changed editor.selectionBackground from #E1DFDD40 "#E1DFDD20", 
     - changed editor.lineHighlightBackground from #E1DFDD0b to #c0c0c015

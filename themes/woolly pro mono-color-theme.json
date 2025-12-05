@@ -17,7 +17,7 @@
 		"activityBar.background": "#202020",
 		"activityBar.foreground": "#E1DFDD",
 		"activityBar.border": "#E1DFDD10",
-		"activityBarBadge.background": "#c0c0c0",
+		"activityBarBadge.background": "#98676A",
 		"activityBarBadge.foreground": "#202020",
 
 		"checkbox.background": "#202020",
@@ -25,7 +25,7 @@
 
 		"dropdown.listBackground": "#2b2b2b",
 
-		"editor.background": "#151515",
+		"editor.background": "#202020",
 		"editor.foreground": "#E1DFDD",
 		"editorInfo.foreground": "#F0E68C",
 		"editorError.foreground": "#EE4B2B",
@@ -115,7 +115,7 @@
 		"minimapGutter.deletedBackground": "#ff5b5b",
 		"minimapGutter.modifiedBackground": "#00c3ff",
 		
-		"panel.background": "#131313",
+		"panel.background": "#202020",
 		"panel.border": "#E1DFDD10",
 
 		"settings.dropdownBackground": "#202020",
@@ -138,7 +138,7 @@
 		"statusBar.noFolderBackground": "#151515",
 		"statusBarItem.remoteBackground": "#151515",
 		"statusBarItem.remoteForeground": "#E1DFDD",
-		"statusBar.debuggingBackground": "#E0B0FF",
+		"statusBar.debuggingBackground": "#DC3958",
 		"statusBar.debuggingForeground": "#202020",
 		"statusBar.border": "#E1DFDD10",
 
